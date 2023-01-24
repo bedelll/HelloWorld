@@ -57,5 +57,6 @@ public class UdemyBolumIki {
         if ((yil%400)==0 || ((yil%4)==0 && (yil%100)!=0)){
             System.out.println("Girilen Yıl Artık Yıldır");
         }
+        //KOŞUL YAPISI ÇARŞAMBA GÜNÜ İŞLENECEK
     }
 }
